@@ -1,2 +1,0 @@
-[console_scripts]
-jupyterdartkernel = jupyterdartkernel.install_kernelspec:install_kernelspec
