@@ -1,0 +1,12 @@
+name: learning_http_dart
+description: Your project description
+version: 1.0.0
+
+environment:
+  sdk: '>=2.12.0 <4.0.0'
+  
+dependencies:
+  html: ^0.15.4
+  xml: any
+  http: any
+  
